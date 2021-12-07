@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<p>Hey there,I am M Palanikannan...a novice front-end developer.I am currently trying to explore fields like front-end development and Machine Learning</p>
+<h4>Hey there,I am M Palanikannan...a novice front-end developer.I am currently trying to explore fields like front-end development and Machine Learning</h4>
   
 
 **languages and tools:**  
