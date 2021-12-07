@@ -35,5 +35,5 @@ Hey there,I am M Palanikannan...a novice front-end developer.I am currently tryi
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="![Palanikannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PalanikannanM&show_icons=true&theme=radical)" alt="palanikannan's github stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PalanikannanM&show_icons=true&theme=radical" alt="palanikannan's github stats" />
   
