@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<h4>Hey there,I am M Palanikannan...a novice front-end developer.I am currently trying to explore fields like front-end development and Machine Learning</h4>
+<h4>Hey there,I am M Palanikannan...a front-end developer and I develop highly functional websites in ReactJS.I am currently trying to explore fields like front-end development and Machine Learning</h4>
   
 
 **I'm currently learning:**  
