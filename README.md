@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </p>
 
 ## My Contributions 
-
+<!--START_SECTION:activity-->
 ---
 
 <p align="center">
