@@ -12,31 +12,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/AkashCubers">
-  <img align="left" alt="M Palanikannan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/m-palanikannan-021822200/">
-  <img align="left" alt="M Palanikannan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
+## About Me 👨🏻‍💻
 
-<h4>Hey there,I am M Palanikannan...a front-end developer and I develop highly functional websites in ReactJS.I am currently trying to explore fields like front-end development and Machine Learning</h4>
-  
+- 👀 I am Palanikannan, an Open Source Enthusiast
+- 💻 I’m a full stack MERN developer
+- 🎓 I am a pre-final year student at VIT Vellore (B.Tech CSE) with a CGPA of 8.91
+- 🌱 I’m currently learning DevOps and cloud native technologies
 
-**I'm currently learning:**  
+## Tech Stack
 
-<div align="center">
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</div>
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-📈 My GitHub Stats
+## My GitHub Stats 📈
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Palanikannan1437&show_icons=true&count_private=true&theme=radical" alt="palanikannan's github stats" />
-  
+<p align="center"> 
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Palanikannan1437&show_icons=true&count_private=true&theme=tokyonight" alt="palanikannan's github stats" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Palanikannan1437&theme=tokyonight" />
+</p>
+
+## My Contributions 
+
+---
+
+<p align="center">
+  <a href="https://twitter.com/Palanikannan_M">
+    <img src="https://img.shields.io/twitter/follow/Palanikannan_M?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Palanikannan's Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/m-palanikannan-021822200/">
+    <img src="https://img.shields.io/badge/LinkedIn-210-mpalanikannan?style=for-the-badge&logo=linkedin&color=blue" alt="Palanikannan's LinkedIn"/>
+  </a>
+  <a href="http://youtube.com/channel/UC9mJn5odjzXZlfNwWxIg1lw?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC9mJn5odjzXZlfNwWxIg1lw?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Palanikannan's YouTube channel"/>
+  </a>
+</p>
