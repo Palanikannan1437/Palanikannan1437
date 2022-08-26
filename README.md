@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ## My Recent Contributions 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2489](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2489) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
-2. 💪 Opened PR [#2078](https://github.com/RocketChat/docs/pull/2078) in [RocketChat/docs](https://github.com/RocketChat/docs)
-3. 💪 Opened PR [#2077](https://github.com/RocketChat/docs/pull/2077) in [RocketChat/docs](https://github.com/RocketChat/docs)
-4. 🗣 Commented on [#2488](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2488) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
-5. 🗣 Commented on [#2464](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2464) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
+1. 💪 Opened PR [#2490](https://github.com/RocketChat/Rocket.Chat.Electron/pull/2490) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
+2. ❗️ Opened issue [#2489](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2489) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
+3. 💪 Opened PR [#2078](https://github.com/RocketChat/docs/pull/2078) in [RocketChat/docs](https://github.com/RocketChat/docs)
+4. 💪 Opened PR [#2077](https://github.com/RocketChat/docs/pull/2077) in [RocketChat/docs](https://github.com/RocketChat/docs)
+5. 🗣 Commented on [#2488](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2488) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
 <!--END_SECTION:activity-->
 ---
 
