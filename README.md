@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ## My Recent Contributions 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2490](https://github.com/RocketChat/Rocket.Chat.Electron/pull/2490) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
-2. ❗️ Opened issue [#2489](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2489) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
-3. 💪 Opened PR [#2078](https://github.com/RocketChat/docs/pull/2078) in [RocketChat/docs](https://github.com/RocketChat/docs)
-4. 💪 Opened PR [#2077](https://github.com/RocketChat/docs/pull/2077) in [RocketChat/docs](https://github.com/RocketChat/docs)
-5. 🗣 Commented on [#2488](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2488) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
+1. ❌ Closed PR [#2](https://github.com/vyomguptaa/Ecell-Project/pull/2) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
+2. ❌ Closed PR [#3](https://github.com/vyomguptaa/Ecell-Project/pull/3) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
+3. ❌ Closed PR [#5](https://github.com/vyomguptaa/Ecell-Project/pull/5) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
+4. ❌ Closed PR [#1](https://github.com/henit-chobisa/henit-chobisa/pull/1) in [henit-chobisa/henit-chobisa](https://github.com/henit-chobisa/henit-chobisa)
+5. 💪 Opened PR [#2490](https://github.com/RocketChat/Rocket.Chat.Electron/pull/2490) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
 <!--END_SECTION:activity-->
 ---
 
