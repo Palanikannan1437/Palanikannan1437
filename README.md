@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+
 ## My GitHub Stats 📈
 
 <p align="center"> 
@@ -44,14 +45,17 @@ Here are some ideas to get you started:
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Palanikannan1437&theme=tokyonight" />
 </p>
 
-## My Recent Contributions 
+## My Recent Contributions
+
 <!--START_SECTION:activity-->
+
 1. ❌ Closed PR [#2](https://github.com/vyomguptaa/Ecell-Project/pull/2) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
 2. ❌ Closed PR [#3](https://github.com/vyomguptaa/Ecell-Project/pull/3) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
 3. ❌ Closed PR [#5](https://github.com/vyomguptaa/Ecell-Project/pull/5) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
 4. ❌ Closed PR [#1](https://github.com/henit-chobisa/henit-chobisa/pull/1) in [henit-chobisa/henit-chobisa](https://github.com/henit-chobisa/henit-chobisa)
 5. 💪 Opened PR [#2490](https://github.com/RocketChat/Rocket.Chat.Electron/pull/2490) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
 <!--END_SECTION:activity-->
+
 ---
 
 <p align="center">
@@ -64,5 +68,7 @@ Here are some ideas to get you started:
   <a href="http://youtube.com/channel/UC9mJn5odjzXZlfNwWxIg1lw?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC9mJn5odjzXZlfNwWxIg1lw?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Palanikannan's YouTube channel"/>
   </a>
-  <a href="https://www.buymeacoffee.com/palanikannan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  
 </p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/palanikannan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
