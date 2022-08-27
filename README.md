@@ -64,4 +64,5 @@ Here are some ideas to get you started:
   <a href="http://youtube.com/channel/UC9mJn5odjzXZlfNwWxIg1lw?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC9mJn5odjzXZlfNwWxIg1lw?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Palanikannan's YouTube channel"/>
   </a>
+  <a href="https://www.buymeacoffee.com/palanikannan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
