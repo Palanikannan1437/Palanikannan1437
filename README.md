@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9](https://github.com/Palanikannan1437/Salesmigo-backend/pull/9) in [Palanikannan1437/Salesmigo-backend](https://github.com/Palanikannan1437/Salesmigo-backend)
-2. ❌ Closed PR [#2](https://github.com/vyomguptaa/Ecell-Project/pull/2) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
-3. ❌ Closed PR [#3](https://github.com/vyomguptaa/Ecell-Project/pull/3) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
-4. ❌ Closed PR [#5](https://github.com/vyomguptaa/Ecell-Project/pull/5) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
-5. ❌ Closed PR [#1](https://github.com/henit-chobisa/henit-chobisa/pull/1) in [henit-chobisa/henit-chobisa](https://github.com/henit-chobisa/henit-chobisa)
+1. 🗣 Commented on [#2354](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2354) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
+2. 💪 Opened PR [#9](https://github.com/Palanikannan1437/Salesmigo-backend/pull/9) in [Palanikannan1437/Salesmigo-backend](https://github.com/Palanikannan1437/Salesmigo-backend)
+3. ❌ Closed PR [#2](https://github.com/vyomguptaa/Ecell-Project/pull/2) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
+4. ❌ Closed PR [#3](https://github.com/vyomguptaa/Ecell-Project/pull/3) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
+5. ❌ Closed PR [#5](https://github.com/vyomguptaa/Ecell-Project/pull/5) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
 <!--END_SECTION:activity-->
 
 ---
