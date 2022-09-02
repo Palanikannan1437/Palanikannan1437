@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2354](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2354) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
-2. 🗣 Commented on [#2459](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2459) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
-3. 🗣 Commented on [#2354](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2354) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
-4. 💪 Opened PR [#9](https://github.com/Palanikannan1437/Salesmigo-backend/pull/9) in [Palanikannan1437/Salesmigo-backend](https://github.com/Palanikannan1437/Salesmigo-backend)
-5. ❌ Closed PR [#2](https://github.com/vyomguptaa/Ecell-Project/pull/2) in [vyomguptaa/Ecell-Project](https://github.com/vyomguptaa/Ecell-Project)
+1. 🗣 Commented on [#2486](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2486) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
+2. 🗣 Commented on [#2354](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2354) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
+3. 🗣 Commented on [#2459](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2459) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
+4. 🗣 Commented on [#2354](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2354) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
+5. 💪 Opened PR [#9](https://github.com/Palanikannan1437/Salesmigo-backend/pull/9) in [Palanikannan1437/Salesmigo-backend](https://github.com/Palanikannan1437/Salesmigo-backend)
 <!--END_SECTION:activity-->
 
 ---
