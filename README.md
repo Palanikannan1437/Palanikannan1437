@@ -58,6 +58,10 @@ Here are some ideas to get you started:
 
 ---
 
+<p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3APalanikannan1437+is%3Aclosed">All My Contributions</a></p>
+
+---
+
 <p align="center">
   <a href="https://twitter.com/Palanikannan_M">
     <img src="https://img.shields.io/twitter/follow/Palanikannan_M?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Palanikannan's Twitter"/>
