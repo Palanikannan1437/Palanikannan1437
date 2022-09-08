@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#181](https://github.com/RocketChat/RC4Community/pull/181) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-2. 💪 Opened PR [#180](https://github.com/RocketChat/RC4Community/pull/180) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-3. 🎉 Merged PR [#7](https://github.com/ecellvit/FuturePreneurs-22/pull/7) in [ecellvit/FuturePreneurs-22](https://github.com/ecellvit/FuturePreneurs-22)
-4. 🗣 Commented on [#2443](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2443) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
-5. ❗️ Closed issue [#5](https://github.com/ecellvit/FuturePreneurs-22/issues/5) in [ecellvit/FuturePreneurs-22](https://github.com/ecellvit/FuturePreneurs-22)
+1. 🎉 Merged PR [#8](https://github.com/ecellvit/FuturePreneurs-22/pull/8) in [ecellvit/FuturePreneurs-22](https://github.com/ecellvit/FuturePreneurs-22)
+2. 💪 Opened PR [#181](https://github.com/RocketChat/RC4Community/pull/181) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+3. 💪 Opened PR [#180](https://github.com/RocketChat/RC4Community/pull/180) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+4. 🎉 Merged PR [#7](https://github.com/ecellvit/FuturePreneurs-22/pull/7) in [ecellvit/FuturePreneurs-22](https://github.com/ecellvit/FuturePreneurs-22)
+5. 🗣 Commented on [#2443](https://github.com/RocketChat/Rocket.Chat.Electron/issues/2443) in [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron)
 <!--END_SECTION:activity-->
 
 ---
