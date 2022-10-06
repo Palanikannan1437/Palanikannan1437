@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#183](https://github.com/RocketChat/RC4Community/issues/183) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+1. 🗣 Commented on [#182](https://github.com/RocketChat/RC4Community/issues/182) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
 2. 🗣 Commented on [#183](https://github.com/RocketChat/RC4Community/issues/183) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
 3. 🗣 Commented on [#183](https://github.com/RocketChat/RC4Community/issues/183) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
 4. 🗣 Commented on [#183](https://github.com/RocketChat/RC4Community/issues/183) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
