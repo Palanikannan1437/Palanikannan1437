@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#54](https://github.com/apache/incubator-devlake-website/issues/54) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-2. 💪 Opened PR [#313](https://github.com/apache/incubator-devlake-website/pull/313) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-3. 🗣 Commented on [#195](https://github.com/RocketChat/RC4Community/issues/195) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-4. 🗣 Commented on [#53](https://github.com/RocketChat/EmbeddedChat/issues/53) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
-5. 🗣 Commented on [#186](https://github.com/RocketChat/RC4Community/issues/186) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+1. 💪 Opened PR [#314](https://github.com/apache/incubator-devlake-website/pull/314) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+2. 🗣 Commented on [#54](https://github.com/apache/incubator-devlake-website/issues/54) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+3. 💪 Opened PR [#313](https://github.com/apache/incubator-devlake-website/pull/313) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+4. 🗣 Commented on [#195](https://github.com/RocketChat/RC4Community/issues/195) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+5. 🗣 Commented on [#53](https://github.com/RocketChat/EmbeddedChat/issues/53) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
 <!--END_SECTION:activity-->
 
 ---
