@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#203](https://github.com/RocketChat/RC4Community/pull/203) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-2. 🗣 Commented on [#2186](https://github.com/gitpod-io/gitpod/issues/2186) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. 💪 Opened PR [#23](https://github.com/shadcn/taxonomy/pull/23) in [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
-4. 🗣 Commented on [#201](https://github.com/RocketChat/RC4Community/issues/201) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-5. 🗣 Commented on [#37](https://github.com/RocketChat/RC4Community/issues/37) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+1. 🗣 Commented on [#2186](https://github.com/gitpod-io/gitpod/issues/2186) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 💪 Opened PR [#203](https://github.com/RocketChat/RC4Community/pull/203) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+3. 🗣 Commented on [#2186](https://github.com/gitpod-io/gitpod/issues/2186) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. 💪 Opened PR [#23](https://github.com/shadcn/taxonomy/pull/23) in [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
+5. 🗣 Commented on [#201](https://github.com/RocketChat/RC4Community/issues/201) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
 <!--END_SECTION:activity-->
 
 ---
