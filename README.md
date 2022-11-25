@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me 👨🏻‍💻
 
-- 👀 I am Palanikannan, an Open Source Enthusiast
+- 👀 I am Palanikannan, an Open Source Contributor @Rocket.Chat @Apache/devlake
 - 💻 I’m a full stack MERN developer
 - 🎓 I am a pre-final year student at VIT Vellore (B.Tech CSE) with a CGPA of 8.91
 - 🌱 I’m currently learning DevOps and cloud native technologies
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
 ## My GitHub Stats 📈
 
