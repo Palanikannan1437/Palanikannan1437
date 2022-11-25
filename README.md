@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3APalanikannan1437+is%3Aclosed">All My Contributions</a></p>
+<p align="center"><a href="https://historical-beak-c14.notion.site/Palanikannan-s-Open-Source-Contributions-6093b953381e48979d93eeb1f12f7d44">All My OSS Contributions</a></p>
 
 ---
 
