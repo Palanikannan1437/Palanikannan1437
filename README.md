@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#9](https://github.com/Palanikannan1437/Salesmigo-backend/pull/9) in [Palanikannan1437/Salesmigo-backend](https://github.com/Palanikannan1437/Salesmigo-backend)
-2. 🗣 Commented on [#203](https://github.com/RocketChat/RC4Community/issues/203) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-3. 🗣 Commented on [#2186](https://github.com/gitpod-io/gitpod/issues/2186) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. 💪 Opened PR [#203](https://github.com/RocketChat/RC4Community/pull/203) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-5. 🗣 Commented on [#2186](https://github.com/gitpod-io/gitpod/issues/2186) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. 🗣 Commented on [#203](https://github.com/RocketChat/RC4Community/issues/203) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+2. ❌ Closed PR [#9](https://github.com/Palanikannan1437/Salesmigo-backend/pull/9) in [Palanikannan1437/Salesmigo-backend](https://github.com/Palanikannan1437/Salesmigo-backend)
+3. 🗣 Commented on [#203](https://github.com/RocketChat/RC4Community/issues/203) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+4. 🗣 Commented on [#2186](https://github.com/gitpod-io/gitpod/issues/2186) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. 💪 Opened PR [#203](https://github.com/RocketChat/RC4Community/pull/203) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
 <!--END_SECTION:activity-->
 
 ---
