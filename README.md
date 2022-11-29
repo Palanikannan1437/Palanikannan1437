@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#203](https://github.com/RocketChat/RC4Community/issues/203) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-2. 🗣 Commented on [#56](https://github.com/RocketChat/RC4Conferences/issues/56) in [RocketChat/RC4Conferences](https://github.com/RocketChat/RC4Conferences)
-3. 🗣 Commented on [#43413](https://github.com/vercel/next.js/issues/43413) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🗣 Commented on [#43413](https://github.com/vercel/next.js/issues/43413) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#203](https://github.com/RocketChat/RC4Community/issues/203) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+3. 🗣 Commented on [#56](https://github.com/RocketChat/RC4Conferences/issues/56) in [RocketChat/RC4Conferences](https://github.com/RocketChat/RC4Conferences)
 4. 🗣 Commented on [#43413](https://github.com/vercel/next.js/issues/43413) in [vercel/next.js](https://github.com/vercel/next.js)
-5. ❗️ Opened issue [#43413](https://github.com/vercel/next.js/issues/43413) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#43413](https://github.com/vercel/next.js/issues/43413) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 ---
