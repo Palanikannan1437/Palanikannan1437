@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#206](https://github.com/RocketChat/RC4Community/issues/206) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-2. 🗣 Commented on [#207](https://github.com/RocketChat/RC4Community/issues/207) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-3. 💪 Opened PR [#207](https://github.com/RocketChat/RC4Community/pull/207) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-4. ❌ Reopened PR [#181](https://github.com/RocketChat/RC4Community/pull/181) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-5. 🗣 Commented on [#206](https://github.com/RocketChat/RC4Community/issues/206) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+2. 🗣 Commented on [#208](https://github.com/RocketChat/RC4Community/issues/208) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+3. 🗣 Commented on [#206](https://github.com/RocketChat/RC4Community/issues/206) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+4. 🗣 Commented on [#207](https://github.com/RocketChat/RC4Community/issues/207) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+5. 💪 Opened PR [#207](https://github.com/RocketChat/RC4Community/pull/207) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
 <!--END_SECTION:activity-->
 
 ---
