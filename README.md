@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me 👨🏻‍💻
 
-- 👀 I am Palani, Junior Developer Evangelist [@Apache/Devlake](https://github.com/apache/incubator-devlake)
+- 👀 I am Palani, Jr. Developer Evangelist [@Apache/Devlake](https://github.com/apache/incubator-devlake)
 - ⚡️ Open Source Contributor [@Rocket.Chat](https://github.com/RocketChat)
 - 💻 I’m a full stack MERN developer
 - 🎓 I am a pre-final year student at VIT Vellore (B.Tech CSE) with a CGPA of 8.91
