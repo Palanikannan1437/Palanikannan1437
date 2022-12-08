@@ -17,10 +17,17 @@ Here are some ideas to get you started:
 
 ## About Me 👨🏻‍💻
 
-- 👀 I am Palanikannan, an Open Source Contributor @Rocket.Chat @Apache/devlake
+- 👀 I am Palani, Junior Developer Evangelist [@Apache/Devlake](https://github.com/apache/incubator-devlake)
+- ⚡️ Open Source Contributor [@Rocket.Chat](https://github.com/RocketChat)
 - 💻 I’m a full stack MERN developer
 - 🎓 I am a pre-final year student at VIT Vellore (B.Tech CSE) with a CGPA of 8.91
-- 🌱 I’m currently learning DevOps and cloud native technologies
+- 🌱 DevOps Enthusiast + Gopher + SQL
+
+---
+
+<p align="center"><a href="https://historical-beak-c14.notion.site/Palanikannan-s-Open-Source-Contributions-6093b953381e48979d93eeb1f12f7d44">All My OSS Contributions</a></p>
+
+---
 
 ## Tech Stack
 
@@ -50,11 +57,6 @@ Here are some ideas to get you started:
 5. 🗣 Commented on [#208](https://github.com/RocketChat/RC4Community/issues/208) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
 <!--END_SECTION:activity-->
 
----
-
-<p align="center"><a href="https://historical-beak-c14.notion.site/Palanikannan-s-Open-Source-Contributions-6093b953381e48979d93eeb1f12f7d44">All My OSS Contributions</a></p>
-
----
 
 <p align="center">
   <a href="https://twitter.com/Palanikannan_M">
