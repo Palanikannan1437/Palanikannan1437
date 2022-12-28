@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#361](https://github.com/apache/incubator-devlake-website/issues/361) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-2. 💪 Opened PR [#361](https://github.com/apache/incubator-devlake-website/pull/361) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-3. ❗️ Opened issue [#360](https://github.com/apache/incubator-devlake-website/issues/360) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-4. 💪 Opened PR [#358](https://github.com/apache/incubator-devlake-website/pull/358) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-5. 🎉 Merged PR [#1](https://github.com/rohitg00/RC4Community/pull/1) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+1. 🗣 Commented on [#2](https://github.com/rohitg00/RC4Community/issues/2) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+2. 🗣 Commented on [#361](https://github.com/apache/incubator-devlake-website/issues/361) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+3. 💪 Opened PR [#361](https://github.com/apache/incubator-devlake-website/pull/361) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+4. ❗️ Opened issue [#360](https://github.com/apache/incubator-devlake-website/issues/360) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+5. 💪 Opened PR [#358](https://github.com/apache/incubator-devlake-website/pull/358) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
 <!--END_SECTION:activity-->
 
 
