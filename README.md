@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/rohitg00/RC4Community/pull/8) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-2. ❗️ Opened issue [#7](https://github.com/rohitg00/RC4Community/issues/7) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-3. 🗣 Commented on [#4](https://github.com/rohitg00/RC4Community/issues/4) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-4. ❗️ Opened issue [#6](https://github.com/rohitg00/RC4Community/issues/6) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-5. ❗️ Opened issue [#5](https://github.com/rohitg00/RC4Community/issues/5) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+1. ❗️ Closed issue [#5](https://github.com/rohitg00/RC4Community/issues/5) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+2. ❗️ Closed issue [#6](https://github.com/rohitg00/RC4Community/issues/6) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+3. 🗣 Commented on [#8](https://github.com/rohitg00/RC4Community/issues/8) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+4. 🎉 Merged PR [#8](https://github.com/rohitg00/RC4Community/pull/8) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+5. ❗️ Opened issue [#7](https://github.com/rohitg00/RC4Community/issues/7) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
 <!--END_SECTION:activity-->
 
 
