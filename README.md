@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3960](https://github.com/apache/incubator-devlake/issues/3960) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
-2. 🗣 Commented on [#3](https://github.com/rohitg00/RC4Community/issues/3) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-3. 🎉 Merged PR [#3](https://github.com/rohitg00/RC4Community/pull/3) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-4. 🗣 Commented on [#2](https://github.com/rohitg00/RC4Community/issues/2) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-5. 🗣 Commented on [#361](https://github.com/apache/incubator-devlake-website/issues/361) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+1. ❗️ Opened issue [#5](https://github.com/rohitg00/RC4Community/issues/5) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+2. 🗣 Commented on [#3960](https://github.com/apache/incubator-devlake/issues/3960) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+3. 🗣 Commented on [#3](https://github.com/rohitg00/RC4Community/issues/3) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+4. 🎉 Merged PR [#3](https://github.com/rohitg00/RC4Community/pull/3) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+5. 🗣 Commented on [#2](https://github.com/rohitg00/RC4Community/issues/2) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
 <!--END_SECTION:activity-->
 
 
