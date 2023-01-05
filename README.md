@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#152](https://github.com/RocketChat/RC4Community/issues/152) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-2. 🎉 Merged PR [#7](https://github.com/henit-chobisa/Gitpod-Raycast-Extension/pull/7) in [henit-chobisa/Gitpod-Raycast-Extension](https://github.com/henit-chobisa/Gitpod-Raycast-Extension)
-3. 💪 Opened PR [#7](https://github.com/henit-chobisa/Gitpod-Raycast-Extension/pull/7) in [henit-chobisa/Gitpod-Raycast-Extension](https://github.com/henit-chobisa/Gitpod-Raycast-Extension)
-4. 🎉 Merged PR [#6](https://github.com/henit-chobisa/Gitpod-Raycast-Extension/pull/6) in [henit-chobisa/Gitpod-Raycast-Extension](https://github.com/henit-chobisa/Gitpod-Raycast-Extension)
-5. 💪 Opened PR [#6](https://github.com/henit-chobisa/Gitpod-Raycast-Extension/pull/6) in [henit-chobisa/Gitpod-Raycast-Extension](https://github.com/henit-chobisa/Gitpod-Raycast-Extension)
+1. 🎉 Merged PR [#4](https://github.com/rohitg00/RC4Community/pull/4) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+2. 🗣 Commented on [#152](https://github.com/RocketChat/RC4Community/issues/152) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+3. 🎉 Merged PR [#7](https://github.com/henit-chobisa/Gitpod-Raycast-Extension/pull/7) in [henit-chobisa/Gitpod-Raycast-Extension](https://github.com/henit-chobisa/Gitpod-Raycast-Extension)
+4. 💪 Opened PR [#7](https://github.com/henit-chobisa/Gitpod-Raycast-Extension/pull/7) in [henit-chobisa/Gitpod-Raycast-Extension](https://github.com/henit-chobisa/Gitpod-Raycast-Extension)
+5. 🎉 Merged PR [#6](https://github.com/henit-chobisa/Gitpod-Raycast-Extension/pull/6) in [henit-chobisa/Gitpod-Raycast-Extension](https://github.com/henit-chobisa/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
