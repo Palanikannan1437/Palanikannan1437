@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/9) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-2. 💪 Opened PR [#9](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/9) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-3. 🎉 Merged PR [#19](https://github.com/rohitg00/RC4Community/pull/19) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-4. 💪 Opened PR [#19](https://github.com/rohitg00/RC4Community/pull/19) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-5. ❌ Closed PR [#220](https://github.com/RocketChat/RC4Community/pull/220) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+1. 🗣 Commented on [#3305](https://github.com/apache/incubator-devlake/issues/3305) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+2. 🎉 Merged PR [#9](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/9) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. 💪 Opened PR [#9](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/9) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. 🎉 Merged PR [#19](https://github.com/rohitg00/RC4Community/pull/19) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+5. 💪 Opened PR [#19](https://github.com/rohitg00/RC4Community/pull/19) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
 <!--END_SECTION:activity-->
 
 
