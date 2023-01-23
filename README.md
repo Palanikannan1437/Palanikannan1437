@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#12](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/12) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-2. 🎉 Merged PR [#20](https://github.com/rohitg00/RC4Community/pull/20) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-3. 💪 Opened PR [#20](https://github.com/rohitg00/RC4Community/pull/20) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-4. 🗣 Commented on [#4336](https://github.com/raycast/extensions/issues/4336) in [raycast/extensions](https://github.com/raycast/extensions)
-5. ❗️ Opened issue [#11](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/11) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. 🗣 Commented on [#4336](https://github.com/raycast/extensions/issues/4336) in [raycast/extensions](https://github.com/raycast/extensions)
+2. ❗️ Opened issue [#12](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/12) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. 🎉 Merged PR [#20](https://github.com/rohitg00/RC4Community/pull/20) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+4. 💪 Opened PR [#20](https://github.com/rohitg00/RC4Community/pull/20) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+5. 🗣 Commented on [#4336](https://github.com/raycast/extensions/issues/4336) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 
