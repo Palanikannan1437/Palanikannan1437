@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3841](https://github.com/gitpod-io/gitpod/issues/3841) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. ❗️ Opened issue [#13](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/13) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 2. 🗣 Commented on [#3841](https://github.com/gitpod-io/gitpod/issues/3841) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 3. 🗣 Commented on [#3841](https://github.com/gitpod-io/gitpod/issues/3841) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. 🎉 Merged PR [#21](https://github.com/rohitg00/RC4Community/pull/21) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-5. 💪 Opened PR [#21](https://github.com/rohitg00/RC4Community/pull/21) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+4. 🗣 Commented on [#3841](https://github.com/gitpod-io/gitpod/issues/3841) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. 🎉 Merged PR [#21](https://github.com/rohitg00/RC4Community/pull/21) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
 <!--END_SECTION:activity-->
 
 
