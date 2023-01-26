@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21](https://github.com/rohitg00/RC4Community/pull/21) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-2. 💪 Opened PR [#21](https://github.com/rohitg00/RC4Community/pull/21) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-3. 🗣 Commented on [#66](https://github.com/RocketChat/RC4Conferences/issues/66) in [RocketChat/RC4Conferences](https://github.com/RocketChat/RC4Conferences)
-4. 🗣 Commented on [#222](https://github.com/RocketChat/RC4Community/issues/222) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+1. 🗣 Commented on [#3841](https://github.com/gitpod-io/gitpod/issues/3841) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 🎉 Merged PR [#21](https://github.com/rohitg00/RC4Community/pull/21) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+3. 💪 Opened PR [#21](https://github.com/rohitg00/RC4Community/pull/21) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+4. 🗣 Commented on [#66](https://github.com/RocketChat/RC4Conferences/issues/66) in [RocketChat/RC4Conferences](https://github.com/RocketChat/RC4Conferences)
 5. 🗣 Commented on [#222](https://github.com/RocketChat/RC4Community/issues/222) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
 <!--END_SECTION:activity-->
 
