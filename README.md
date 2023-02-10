@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#23](https://github.com/rohitg00/RC4Community/issues/23) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
-2. 🗣 Commented on [#16158](https://github.com/gitpod-io/gitpod/issues/16158) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. 🗣 Commented on [#16158](https://github.com/gitpod-io/gitpod/issues/16158) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. 🗣 Commented on [#4336](https://github.com/raycast/extensions/issues/4336) in [raycast/extensions](https://github.com/raycast/extensions)
-5. ❗️ Opened issue [#14](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/14) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. ❗️ Closed issue [#13](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/13) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+2. 🗣 Commented on [#17](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/17) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. 🗣 Commented on [#19](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/19) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. 🗣 Commented on [#18](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/18) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. 🗣 Commented on [#18](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/18) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
