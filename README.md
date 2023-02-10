@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#13](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/13) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-2. 🗣 Commented on [#17](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/17) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-3. 🗣 Commented on [#19](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/19) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. 🗣 Commented on [#18](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/18) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. 🗣 Commented on [#18](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/18) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. 🗣 Commented on [#16](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/16) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+2. ❗️ Closed issue [#14](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/14) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. 🗣 Commented on [#14](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/14) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. ❗️ Closed issue [#13](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/13) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. 🗣 Commented on [#17](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/17) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
