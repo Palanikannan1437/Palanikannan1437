@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/Palanikannan1437/gitpod/pull/1) in [Palanikannan1437/gitpod](https://github.com/Palanikannan1437/gitpod)
-2. 🗣 Commented on [#16158](https://github.com/gitpod-io/gitpod/issues/16158) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. ❗️ Opened issue [#20](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/20) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. 🗣 Commented on [#16](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/16) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. 🗣 Commented on [#3841](https://github.com/gitpod-io/gitpod/issues/3841) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. ❌ Closed PR [#1](https://github.com/Palanikannan1437/gitpod/pull/1) in [Palanikannan1437/gitpod](https://github.com/Palanikannan1437/gitpod)
+3. 🗣 Commented on [#16158](https://github.com/gitpod-io/gitpod/issues/16158) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. ❗️ Opened issue [#20](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/20) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 5. 🗣 Commented on [#16](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/16) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
