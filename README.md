@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/ecellvit/esummit23/pull/3) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-2. 🗣 Commented on [#3841](https://github.com/gitpod-io/gitpod/issues/3841) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. ❌ Closed PR [#1](https://github.com/Palanikannan1437/gitpod/pull/1) in [Palanikannan1437/gitpod](https://github.com/Palanikannan1437/gitpod)
-4. 🗣 Commented on [#16158](https://github.com/gitpod-io/gitpod/issues/16158) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. ❗️ Opened issue [#20](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/20) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. ❗️ Opened issue [#22](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/22) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+2. 🎉 Merged PR [#3](https://github.com/ecellvit/esummit23/pull/3) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+3. 🗣 Commented on [#3841](https://github.com/gitpod-io/gitpod/issues/3841) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. ❌ Closed PR [#1](https://github.com/Palanikannan1437/gitpod/pull/1) in [Palanikannan1437/gitpod](https://github.com/Palanikannan1437/gitpod)
+5. 🗣 Commented on [#16158](https://github.com/gitpod-io/gitpod/issues/16158) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 
