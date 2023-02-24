@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/ecellvit/esummit23/issues/4) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-2. 🗣 Commented on [#4](https://github.com/ecellvit/esummit23/issues/4) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-3. 🗣 Commented on [#21](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/21) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. ❗️ Opened issue [#22](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/22) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. 🎉 Merged PR [#3](https://github.com/ecellvit/esummit23/pull/3) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+1. 🎉 Merged PR [#1](https://github.com/Palanikannan1437/RC4-Community/pull/1) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
+2. 💪 Opened PR [#1](https://github.com/Palanikannan1437/RC4-Community/pull/1) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
+3. 🗣 Commented on [#4](https://github.com/ecellvit/esummit23/issues/4) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+4. 🗣 Commented on [#4](https://github.com/ecellvit/esummit23/issues/4) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+5. 🗣 Commented on [#21](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/21) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
