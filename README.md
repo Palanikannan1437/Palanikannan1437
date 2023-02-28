@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/ecellvit/esummit23/pull/6) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-2. 🎉 Merged PR [#5](https://github.com/ecellvit/esummit23/pull/5) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-3. 🎉 Merged PR [#4](https://github.com/ecellvit/esummit23/pull/4) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-4. 🎉 Merged PR [#7](https://github.com/ecellvit/esummit23/pull/7) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-5. 🎉 Merged PR [#1](https://github.com/Palanikannan1437/RC4-Community/pull/1) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
+1. 🎉 Merged PR [#27](https://github.com/rohitg00/RC4Community/pull/27) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+2. 💪 Opened PR [#27](https://github.com/rohitg00/RC4Community/pull/27) in [rohitg00/RC4Community](https://github.com/rohitg00/RC4Community)
+3. 🎉 Merged PR [#6](https://github.com/ecellvit/esummit23/pull/6) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+4. 🎉 Merged PR [#5](https://github.com/ecellvit/esummit23/pull/5) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+5. 🎉 Merged PR [#4](https://github.com/ecellvit/esummit23/pull/4) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
 <!--END_SECTION:activity-->
 
 
