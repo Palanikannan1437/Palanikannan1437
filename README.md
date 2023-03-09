@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#30](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/30) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-2. ❗️ Closed issue [#16](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/16) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-3. 🎉 Merged PR [#27](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/27) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. 🗣 Commented on [#28](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/28) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. 🗣 Commented on [#23](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/23) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. 💪 Opened PR [#31](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/31) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+2. 💪 Opened PR [#30](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/30) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. ❗️ Closed issue [#16](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/16) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. 🎉 Merged PR [#27](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/27) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. 🗣 Commented on [#28](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/28) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
