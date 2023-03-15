@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#30](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/30) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-2. ❗️ Closed issue [#22](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/22) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-3. 🎉 Merged PR [#24](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/24) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. 💪 Opened PR [#31](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/31) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. 💪 Opened PR [#30](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/30) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. 🎉 Merged PR [#32](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/32) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+2. 💪 Opened PR [#32](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/32) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. 🗣 Commented on [#30](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/30) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. ❗️ Closed issue [#22](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/22) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. 🎉 Merged PR [#24](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/24) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
