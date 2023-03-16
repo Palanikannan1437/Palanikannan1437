@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#3](https://github.com/Palanikannan1437/open-sauced-goals/issues/3) in [Palanikannan1437/open-sauced-goals](https://github.com/Palanikannan1437/open-sauced-goals)
-2. ❗️ Opened issue [#2](https://github.com/Palanikannan1437/open-sauced-goals/issues/2) in [Palanikannan1437/open-sauced-goals](https://github.com/Palanikannan1437/open-sauced-goals)
-3. ❗️ Opened issue [#1](https://github.com/Palanikannan1437/open-sauced-goals/issues/1) in [Palanikannan1437/open-sauced-goals](https://github.com/Palanikannan1437/open-sauced-goals)
-4. 🎉 Merged PR [#32](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/32) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. 💪 Opened PR [#32](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/32) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. ❗️ Closed issue [#17](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/17) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+2. 🎉 Merged PR [#30](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/30) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. 🗣 Commented on [#28](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/28) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. 🗣 Commented on [#30](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/30) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. ❗️ Opened issue [#3](https://github.com/Palanikannan1437/open-sauced-goals/issues/3) in [Palanikannan1437/open-sauced-goals](https://github.com/Palanikannan1437/open-sauced-goals)
 <!--END_SECTION:activity-->
 
 
