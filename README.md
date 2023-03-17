@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#35](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/35) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-2. ❗️ Opened issue [#34](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/34) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-3. ❗️ Opened issue [#33](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/33) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. 🗣 Commented on [#28](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/28) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. 🎉 Merged PR [#25](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/25) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. 💪 Opened PR [#37](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/37) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+2. ❗️ Opened issue [#36](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/36) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. ❗️ Opened issue [#35](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/35) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. ❗️ Opened issue [#34](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/34) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. ❗️ Opened issue [#33](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/33) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
