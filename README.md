@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#23](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/23) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-2. 💪 Opened PR [#37](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/37) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-3. ❗️ Opened issue [#36](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/36) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. ❗️ Opened issue [#35](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/35) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. ❗️ Opened issue [#34](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/34) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. 🗣 Commented on [#15](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/15) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+2. ❌ Closed PR [#37](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/37) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. ❗️ Closed issue [#11](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/11) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. 🗣 Commented on [#11](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/11) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. 🎉 Merged PR [#38](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/38) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
