@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5457](https://github.com/raycast/extensions/issues/5457) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🎉 Merged PR [#37](https://github.com/ecellvit/esummit23/pull/37) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-3. 🎉 Merged PR [#36](https://github.com/ecellvit/esummit23/pull/36) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-4. 🎉 Merged PR [#35](https://github.com/ecellvit/esummit23/pull/35) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-5. 🎉 Merged PR [#34](https://github.com/ecellvit/esummit23/pull/34) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+1. 🎉 Merged PR [#39](https://github.com/ecellvit/esummit23/pull/39) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+2. 🗣 Commented on [#5457](https://github.com/raycast/extensions/issues/5457) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🎉 Merged PR [#37](https://github.com/ecellvit/esummit23/pull/37) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+4. 🎉 Merged PR [#36](https://github.com/ecellvit/esummit23/pull/36) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+5. 🎉 Merged PR [#35](https://github.com/ecellvit/esummit23/pull/35) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
 <!--END_SECTION:activity-->
 
 
