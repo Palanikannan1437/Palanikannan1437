@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/ecellvit/esummit23/pull/24) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-2. 🎉 Merged PR [#28](https://github.com/ecellvit/esummit23/pull/28) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-3. 🎉 Merged PR [#25](https://github.com/ecellvit/esummit23/pull/25) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-4. 🎉 Merged PR [#27](https://github.com/ecellvit/esummit23/pull/27) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-5. 🎉 Merged PR [#26](https://github.com/ecellvit/esummit23/pull/26) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+1. 🎉 Merged PR [#29](https://github.com/ecellvit/esummit23/pull/29) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+2. 🎉 Merged PR [#24](https://github.com/ecellvit/esummit23/pull/24) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+3. 🎉 Merged PR [#28](https://github.com/ecellvit/esummit23/pull/28) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+4. 🎉 Merged PR [#25](https://github.com/ecellvit/esummit23/pull/25) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+5. 🎉 Merged PR [#27](https://github.com/ecellvit/esummit23/pull/27) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
 <!--END_SECTION:activity-->
 
 
