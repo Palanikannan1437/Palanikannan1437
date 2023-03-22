@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#91](https://github.com/ecellvit/esummit23/pull/91) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-2. 🎉 Merged PR [#40](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/40) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-3. 💪 Opened PR [#40](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/40) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. 🎉 Merged PR [#90](https://github.com/ecellvit/esummit23/pull/90) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
-5. 🎉 Merged PR [#89](https://github.com/ecellvit/esummit23/pull/89) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+1. 🎉 Merged PR [#42](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/42) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+2. 💪 Opened PR [#42](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/42) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. 🎉 Merged PR [#91](https://github.com/ecellvit/esummit23/pull/91) in [ecellvit/esummit23](https://github.com/ecellvit/esummit23)
+4. 🎉 Merged PR [#40](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/40) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. 💪 Opened PR [#40](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/40) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
