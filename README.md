@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#50](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/50) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-2. ❗️ Closed issue [#20](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/20) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-3. 🗣 Commented on [#20](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/20) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. 🗣 Commented on [#18](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/18) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. ❗️ Closed issue [#18](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/18) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. 🎉 Merged PR [#3](https://github.com/Palanikannan1437/RC4-Community/pull/3) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
+2. 💪 Opened PR [#3](https://github.com/Palanikannan1437/RC4-Community/pull/3) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
+3. ❗️ Opened issue [#50](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/50) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. ❗️ Closed issue [#20](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/20) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. 🗣 Commented on [#20](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/20) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
