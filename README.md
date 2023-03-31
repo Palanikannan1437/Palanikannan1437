@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5](https://github.com/Palanikannan1437/RC4-Community/pull/5) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
-2. 💪 Opened PR [#4](https://github.com/Palanikannan1437/RC4-Community/pull/4) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
-3. 🎉 Merged PR [#3](https://github.com/Palanikannan1437/RC4-Community/pull/3) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
-4. 💪 Opened PR [#3](https://github.com/Palanikannan1437/RC4-Community/pull/3) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
-5. ❗️ Opened issue [#50](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/50) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. ❗️ Opened issue [#51](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/51) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+2. 💪 Opened PR [#5](https://github.com/Palanikannan1437/RC4-Community/pull/5) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
+3. 💪 Opened PR [#4](https://github.com/Palanikannan1437/RC4-Community/pull/4) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
+4. 🎉 Merged PR [#3](https://github.com/Palanikannan1437/RC4-Community/pull/3) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
+5. 💪 Opened PR [#3](https://github.com/Palanikannan1437/RC4-Community/pull/3) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
 <!--END_SECTION:activity-->
 
 
