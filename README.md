@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center"><a href="https://historical-beak-c14.notion.site/Palanikannan-s-Open-Source-Contributions-6093b953381e48979d93eeb1f12f7d44">All My OSS Contributions</a></p>
+<p align="center"><a href="https://palanikannan.notion.site/M-Palanikannan-s-Open-Source-Contributions-6093b953381e48979d93eeb1f12f7d44">All My OSS Contributions</a></p>
 
 ---
 
