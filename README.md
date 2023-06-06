@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#11](https://github.com/shadcn/next-template/pull/11) in [shadcn/next-template](https://github.com/shadcn/next-template)
-2. 🗣 Commented on [#11](https://github.com/gitpod-io/gitpod-qa/issues/11) in [gitpod-io/gitpod-qa](https://github.com/gitpod-io/gitpod-qa)
-3. ❗ Opened issue [#53](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/53) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. 🗣 Commented on [#52](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/52) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. ❗ Opened issue [#52](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/52) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. 🗣 Commented on [#17851](https://github.com/gitpod-io/gitpod/issues/17851) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 💪 Opened PR [#11](https://github.com/shadcn/next-template/pull/11) in [shadcn/next-template](https://github.com/shadcn/next-template)
+3. 🗣 Commented on [#11](https://github.com/gitpod-io/gitpod-qa/issues/11) in [gitpod-io/gitpod-qa](https://github.com/gitpod-io/gitpod-qa)
+4. ❗ Opened issue [#53](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/53) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. 🗣 Commented on [#52](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/52) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
