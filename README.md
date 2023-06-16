@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#3305](https://github.com/apache/incubator-devlake/issues/3305) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
-2. 🎉 Merged PR [#13](https://github.com/Palanikannan1437/Salesmigo/pull/13) in [Palanikannan1437/Salesmigo](https://github.com/Palanikannan1437/Salesmigo)
-3. 💪 Opened PR [#13](https://github.com/Palanikannan1437/Salesmigo/pull/13) in [Palanikannan1437/Salesmigo](https://github.com/Palanikannan1437/Salesmigo)
-4. 🗣 Commented on [#17851](https://github.com/gitpod-io/gitpod/issues/17851) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. 💪 Opened PR [#11](https://github.com/shadcn/next-template/pull/11) in [shadcn/next-template](https://github.com/shadcn/next-template)
+2. 🗣 Commented on [#3305](https://github.com/apache/incubator-devlake/issues/3305) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+3. 🎉 Merged PR [#13](https://github.com/Palanikannan1437/Salesmigo/pull/13) in [Palanikannan1437/Salesmigo](https://github.com/Palanikannan1437/Salesmigo)
+4. 💪 Opened PR [#13](https://github.com/Palanikannan1437/Salesmigo/pull/13) in [Palanikannan1437/Salesmigo](https://github.com/Palanikannan1437/Salesmigo)
+5. 🗣 Commented on [#17851](https://github.com/gitpod-io/gitpod/issues/17851) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 
