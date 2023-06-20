@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1329](https://github.com/makeplane/plane/issues/1329) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 🗣 Commented on [#3305](https://github.com/apache/incubator-devlake/issues/3305) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
-3. 🗣 Commented on [#3305](https://github.com/apache/incubator-devlake/issues/3305) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
-4. 🗣 Commented on [#3305](https://github.com/apache/incubator-devlake/issues/3305) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
-5. 🎉 Merged PR [#13](https://github.com/Palanikannan1437/Salesmigo/pull/13) in [Palanikannan1437/Salesmigo](https://github.com/Palanikannan1437/Salesmigo)
+1. 🗣 Commented on [#1301](https://github.com/makeplane/plane/issues/1301) in [makeplane/plane](https://github.com/makeplane/plane)
+2. ❗ Opened issue [#1333](https://github.com/makeplane/plane/issues/1333) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 🗣 Commented on [#1301](https://github.com/makeplane/plane/issues/1301) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 🗣 Commented on [#1329](https://github.com/makeplane/plane/issues/1329) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 🗣 Commented on [#3305](https://github.com/apache/incubator-devlake/issues/3305) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
 <!--END_SECTION:activity-->
 
 
