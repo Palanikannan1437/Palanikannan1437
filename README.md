@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#509](https://github.com/formbricks/formbricks/issues/509#issuecomment-1636722071) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
-2. 🗣 Commented on [#509](https://github.com/formbricks/formbricks/issues/509#issuecomment-1636711483) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
-3. 💪 Opened PR [#27](https://github.com/RocketChat/GSoC-Community-Hub/pull/27) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
-4. 🗣 Commented on [#1](https://github.com/Palanikannan1437/plane/pull/1#issuecomment-1632076361) in [Palanikannan1437/plane](https://github.com/Palanikannan1437/plane)
-5. 🎉 Merged PR [#1](https://github.com/Palanikannan1437/plane/pull/1) in [Palanikannan1437/plane](https://github.com/Palanikannan1437/plane)
+1. 🗣 Commented on [#509](https://github.com/formbricks/formbricks/issues/509#issuecomment-1637053374) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+2. 🗣 Commented on [#509](https://github.com/formbricks/formbricks/issues/509#issuecomment-1636722071) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+3. 🗣 Commented on [#509](https://github.com/formbricks/formbricks/issues/509#issuecomment-1636711483) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+4. 💪 Opened PR [#27](https://github.com/RocketChat/GSoC-Community-Hub/pull/27) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
+5. 🗣 Commented on [#1](https://github.com/Palanikannan1437/plane/pull/1#issuecomment-1632076361) in [Palanikannan1437/plane](https://github.com/Palanikannan1437/plane)
 <!--END_SECTION:activity-->
 
 
