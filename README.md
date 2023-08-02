@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2](https://github.com/Palanikannan1437/plane/issues/2) in [Palanikannan1437/plane](https://github.com/Palanikannan1437/plane)
-2. 🎉 Merged PR [#1](https://github.com/Palanikannan1437/formbricks/pull/1) in [Palanikannan1437/formbricks](https://github.com/Palanikannan1437/formbricks)
-3. 💪 Opened PR [#1](https://github.com/Palanikannan1437/formbricks/pull/1) in [Palanikannan1437/formbricks](https://github.com/Palanikannan1437/formbricks)
-4. 🗣 Commented on [#560](https://github.com/formbricks/formbricks/pull/560#issuecomment-1638588902) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
-5. 🗣 Commented on [#560](https://github.com/formbricks/formbricks/pull/560#issuecomment-1637120231) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+1. 🗣 Commented on [#560](https://github.com/formbricks/formbricks/pull/560#issuecomment-1662018074) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+2. ❗ Opened issue [#2](https://github.com/Palanikannan1437/plane/issues/2) in [Palanikannan1437/plane](https://github.com/Palanikannan1437/plane)
+3. 🎉 Merged PR [#1](https://github.com/Palanikannan1437/formbricks/pull/1) in [Palanikannan1437/formbricks](https://github.com/Palanikannan1437/formbricks)
+4. 💪 Opened PR [#1](https://github.com/Palanikannan1437/formbricks/pull/1) in [Palanikannan1437/formbricks](https://github.com/Palanikannan1437/formbricks)
+5. 🗣 Commented on [#560](https://github.com/formbricks/formbricks/pull/560#issuecomment-1638588902) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
 <!--END_SECTION:activity-->
 
 
