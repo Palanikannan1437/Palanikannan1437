@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#28](https://github.com/RocketChat/GSoC-Community-Hub/pull/28) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
-2. ❌ Closed PR [#27](https://github.com/RocketChat/GSoC-Community-Hub/pull/27) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
-3. ❌ Reopened PR [#1791](https://github.com/makeplane/plane/pull/1791) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 💪 Opened PR [#1791](https://github.com/makeplane/plane/pull/1791) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 🔒 Closed issue [#35](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/35) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. 🗣 Commented on [#28](https://github.com/RocketChat/GSoC-Community-Hub/pull/28#issuecomment-1677734645) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
+2. 💪 Opened PR [#28](https://github.com/RocketChat/GSoC-Community-Hub/pull/28) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
+3. ❌ Closed PR [#27](https://github.com/RocketChat/GSoC-Community-Hub/pull/27) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
+4. ❌ Reopened PR [#1791](https://github.com/makeplane/plane/pull/1791) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#1791](https://github.com/makeplane/plane/pull/1791) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
