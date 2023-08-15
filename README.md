@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#66](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/66) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-2. ❗ Opened issue [#65](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/65) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-3. 🗣 Commented on [#28](https://github.com/RocketChat/GSoC-Community-Hub/pull/28#issuecomment-1677734645) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
-4. 💪 Opened PR [#28](https://github.com/RocketChat/GSoC-Community-Hub/pull/28) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
-5. ❌ Closed PR [#27](https://github.com/RocketChat/GSoC-Community-Hub/pull/27) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
+1. 🗣 Commented on [#7952](https://github.com/raycast/extensions/pull/7952#issuecomment-1679436869) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 💪 Opened PR [#66](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/66) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. ❗ Opened issue [#65](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/65) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. 🗣 Commented on [#28](https://github.com/RocketChat/GSoC-Community-Hub/pull/28#issuecomment-1677734645) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
+5. 💪 Opened PR [#28](https://github.com/RocketChat/GSoC-Community-Hub/pull/28) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
 <!--END_SECTION:activity-->
 
 
