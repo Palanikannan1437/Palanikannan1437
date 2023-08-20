@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#31](https://github.com/RocketChat/GSoC-Community-Hub/pull/31) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
-2. 🗣 Commented on [#7952](https://github.com/raycast/extensions/pull/7952#issuecomment-1683416168) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🗣 Commented on [#1871](https://github.com/makeplane/plane/pull/1871#issuecomment-1682614902) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 💪 Opened PR [#1896](https://github.com/makeplane/plane/pull/1896) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 🗣 Commented on [#1869](https://github.com/makeplane/plane/issues/1869#issuecomment-1679900804) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 💪 Opened PR [#718](https://github.com/formbricks/formbricks/pull/718) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+2. 💪 Opened PR [#31](https://github.com/RocketChat/GSoC-Community-Hub/pull/31) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
+3. 🗣 Commented on [#7952](https://github.com/raycast/extensions/pull/7952#issuecomment-1683416168) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#1871](https://github.com/makeplane/plane/pull/1871#issuecomment-1682614902) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#1896](https://github.com/makeplane/plane/pull/1896) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
