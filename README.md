@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#718](https://github.com/formbricks/formbricks/pull/718#issuecomment-1685413114) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
-2. 💪 Opened PR [#718](https://github.com/formbricks/formbricks/pull/718) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
-3. 💪 Opened PR [#31](https://github.com/RocketChat/GSoC-Community-Hub/pull/31) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
-4. 🗣 Commented on [#7952](https://github.com/raycast/extensions/pull/7952#issuecomment-1683416168) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#1871](https://github.com/makeplane/plane/pull/1871#issuecomment-1682614902) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 🗣 Commented on [#718](https://github.com/formbricks/formbricks/pull/718#issuecomment-1686409452) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+2. 🗣 Commented on [#718](https://github.com/formbricks/formbricks/pull/718#issuecomment-1685413114) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+3. 💪 Opened PR [#718](https://github.com/formbricks/formbricks/pull/718) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+4. 💪 Opened PR [#31](https://github.com/RocketChat/GSoC-Community-Hub/pull/31) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
+5. 🗣 Commented on [#7952](https://github.com/raycast/extensions/pull/7952#issuecomment-1683416168) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 
