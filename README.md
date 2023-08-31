@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2023](https://github.com/makeplane/plane/issues/2023) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 💪 Opened PR [#2008](https://github.com/makeplane/plane/pull/2008) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 🗣 Commented on [#1](https://github.com/llmshare/llmlocalmgr/issues/1#issuecomment-1696682893) in [llmshare/llmlocalmgr](https://github.com/llmshare/llmlocalmgr)
-4. 🗣 Commented on [#718](https://github.com/formbricks/formbricks/pull/718#issuecomment-1689727978) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
-5. 🗣 Commented on [#718](https://github.com/formbricks/formbricks/pull/718#issuecomment-1689692443) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+1. 💪 Opened PR [#33](https://github.com/RocketChat/GSoC-Community-Hub/pull/33) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
+2. ❗ Opened issue [#2023](https://github.com/makeplane/plane/issues/2023) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 💪 Opened PR [#2008](https://github.com/makeplane/plane/pull/2008) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 🗣 Commented on [#1](https://github.com/llmshare/llmlocalmgr/issues/1#issuecomment-1696682893) in [llmshare/llmlocalmgr](https://github.com/llmshare/llmlocalmgr)
+5. 🗣 Commented on [#718](https://github.com/formbricks/formbricks/pull/718#issuecomment-1689727978) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
 <!--END_SECTION:activity-->
 
 
