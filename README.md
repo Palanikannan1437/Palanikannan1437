@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/llmshare/llmlocalmgr/pull/2#issuecomment-1702745172) in [llmshare/llmlocalmgr](https://github.com/llmshare/llmlocalmgr)
-2. 💪 Opened PR [#2](https://github.com/llmshare/llmlocalmgr/pull/2) in [llmshare/llmlocalmgr](https://github.com/llmshare/llmlocalmgr)
-3. 🗣 Commented on [#2032](https://github.com/makeplane/plane/pull/2032#issuecomment-1700809195) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 💪 Opened PR [#33](https://github.com/RocketChat/GSoC-Community-Hub/pull/33) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
-5. ❗ Opened issue [#2023](https://github.com/makeplane/plane/issues/2023) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 💪 Opened PR [#2061](https://github.com/makeplane/plane/pull/2061) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 🗣 Commented on [#2](https://github.com/llmshare/llmlocalmgr/pull/2#issuecomment-1702745172) in [llmshare/llmlocalmgr](https://github.com/llmshare/llmlocalmgr)
+3. 💪 Opened PR [#2](https://github.com/llmshare/llmlocalmgr/pull/2) in [llmshare/llmlocalmgr](https://github.com/llmshare/llmlocalmgr)
+4. 🗣 Commented on [#2032](https://github.com/makeplane/plane/pull/2032#issuecomment-1700809195) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#33](https://github.com/RocketChat/GSoC-Community-Hub/pull/33) in [RocketChat/GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub)
 <!--END_SECTION:activity-->
 
 
