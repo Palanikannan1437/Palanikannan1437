@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2209](https://github.com/makeplane/plane/pull/2209#issuecomment-1725124338) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 💪 Opened PR [#2209](https://github.com/makeplane/plane/pull/2209) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 💪 Opened PR [#6](https://github.com/llmshare/llmlocalmgr/pull/6) in [llmshare/llmlocalmgr](https://github.com/llmshare/llmlocalmgr)
-4. 💪 Opened PR [#2131](https://github.com/makeplane/plane/pull/2131) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 💪 Opened PR [#2129](https://github.com/makeplane/plane/pull/2129) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 💪 Opened PR [#2214](https://github.com/makeplane/plane/pull/2214) in [makeplane/plane](https://github.com/makeplane/plane)
+2. ❌ Closed PR [#2131](https://github.com/makeplane/plane/pull/2131) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 🗣 Commented on [#2209](https://github.com/makeplane/plane/pull/2209#issuecomment-1725124338) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 💪 Opened PR [#2209](https://github.com/makeplane/plane/pull/2209) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#6](https://github.com/llmshare/llmlocalmgr/pull/6) in [llmshare/llmlocalmgr](https://github.com/llmshare/llmlocalmgr)
 <!--END_SECTION:activity-->
 
 
