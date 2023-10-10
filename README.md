@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2358](https://github.com/makeplane/plane/pull/2358#issuecomment-1752616075) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 🗣 Commented on [#987](https://github.com/formbricks/formbricks/pull/987#issuecomment-1752432811) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
-3. 🎉 Merged PR [#2](https://github.com/Palanikannan1437/formbricks/pull/2) in [Palanikannan1437/formbricks](https://github.com/Palanikannan1437/formbricks)
-4. 💪 Opened PR [#2](https://github.com/Palanikannan1437/formbricks/pull/2) in [Palanikannan1437/formbricks](https://github.com/Palanikannan1437/formbricks)
-5. 🗣 Commented on [#6877](https://github.com/gitpod-io/gitpod/issues/6877#issuecomment-1749394304) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. 🗣 Commented on [#2358](https://github.com/makeplane/plane/pull/2358#issuecomment-1755348084) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 🗣 Commented on [#2358](https://github.com/makeplane/plane/pull/2358#issuecomment-1752616075) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 🗣 Commented on [#987](https://github.com/formbricks/formbricks/pull/987#issuecomment-1752432811) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+4. 🎉 Merged PR [#2](https://github.com/Palanikannan1437/formbricks/pull/2) in [Palanikannan1437/formbricks](https://github.com/Palanikannan1437/formbricks)
+5. 💪 Opened PR [#2](https://github.com/Palanikannan1437/formbricks/pull/2) in [Palanikannan1437/formbricks](https://github.com/Palanikannan1437/formbricks)
 <!--END_SECTION:activity-->
 
 
