@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 - 🌱 Web & DevOps (Typescript Wizard? + Gopher + SQL)
 
 ---
+## All my OSS Contributions at one place
 
-<p align="center"><a href="https://palanikannan.notion.site/M-Palanikannan-s-Open-Source-Contributions-6093b953381e48979d93eeb1f12f7d44">All My OSS Contributions</a></p>
+<a href="https://palanikannan.notion.site/M-Palanikannan-s-Open-Source-Contributions-6093b953381e48979d93eeb1f12f7d44">Click me daddy ;)</a>
+
+<img width="868" alt="image" src="https://github.com/Palanikannan1437/Palanikannan1437/assets/73993394/d34c0268-6df1-468f-ab22-b741f5dd152d">
 
 ---
 
