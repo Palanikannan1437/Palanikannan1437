@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 ## About Me 👨🏻‍💻
 
-- 👀 I am Palani, Jr. Developer Evangelist [@Apache/Devlake](https://github.com/apache/incubator-devlake)
+- 👀 I am Palani, an OSS Maintainer at [@plane](https://github.com/makeplane/plane)
 - 🚀 GSoC'23 Contributor [@Rocket.Chat](https://github.com/RocketChat)
 - 🍊 Gitpod Hero
-- 💻 I’m a full stack MERN developer
+- 🥑 Previously Jr. Developer Evangelist [@Apache/Devlake](https://github.com/apache/incubator-devlake)
+- 💻 I’m a full stack developer
 - 🎓 I am a pre-final year student at VIT Vellore (B.Tech CSE) with a CGPA of 8.91
-- 🌱 DevOps Enthusiast + Gopher + SQL
+- 🌱 Web & DevOps (Typescript Wizard? + Gopher + SQL)
 
 ---
 
