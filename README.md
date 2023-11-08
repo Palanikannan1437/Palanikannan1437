@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#923](https://github.com/ibhagwan/fzf-lua/issues/923) in [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
-2. 💪 Opened PR [#2710](https://github.com/makeplane/plane/pull/2710) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 💪 Opened PR [#2596](https://github.com/makeplane/plane/pull/2596) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 🗣 Commented on [#2580](https://github.com/makeplane/plane/issues/2580#issuecomment-1787972447) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 💪 Opened PR [#2530](https://github.com/makeplane/plane/pull/2530) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 🗣 Commented on [#923](https://github.com/ibhagwan/fzf-lua/issues/923#issuecomment-1801174846) in [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
+2. 🗣 Commented on [#923](https://github.com/ibhagwan/fzf-lua/issues/923#issuecomment-1801171741) in [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
+3. 🗣 Commented on [#923](https://github.com/ibhagwan/fzf-lua/issues/923#issuecomment-1801162136) in [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
+4. 🗣 Commented on [#923](https://github.com/ibhagwan/fzf-lua/issues/923#issuecomment-1801149816) in [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
+5. ❗ Opened issue [#923](https://github.com/ibhagwan/fzf-lua/issues/923) in [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
 <!--END_SECTION:activity-->
 
 
