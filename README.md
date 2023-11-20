@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2496](https://github.com/makeplane/plane/pull/2496) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 💪 Opened PR [#2789](https://github.com/makeplane/plane/pull/2789) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 🗣 Commented on [#72](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/72#issuecomment-1807213673) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. 🗣 Commented on [#72](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/72#issuecomment-1805031515) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. 💪 Opened PR [#2745](https://github.com/makeplane/plane/pull/2745) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 🗣 Commented on [#72](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/72#issuecomment-1819115308) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+2. ❌ Closed PR [#2496](https://github.com/makeplane/plane/pull/2496) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 💪 Opened PR [#2789](https://github.com/makeplane/plane/pull/2789) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 🗣 Commented on [#72](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/72#issuecomment-1807213673) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. 🗣 Commented on [#72](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/72#issuecomment-1805031515) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
