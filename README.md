@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#83](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/83#issuecomment-1832717933) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-2. 🗣 Commented on [#79](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/79#issuecomment-1832699821) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-3. 🗣 Commented on [#2220](https://github.com/makeplane/plane/issues/2220#issuecomment-1832695461) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 🗣 Commented on [#84](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/84#issuecomment-1832695022) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. 🎉 Merged PR [#84](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/84) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+1. 🔒 Closed issue [#938](https://github.com/ibhagwan/fzf-lua/issues/938) in [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
+2. 🗣 Commented on [#938](https://github.com/ibhagwan/fzf-lua/issues/938#issuecomment-1833499341) in [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
+3. 🗣 Commented on [#83](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/83#issuecomment-1832717933) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. 🗣 Commented on [#79](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/issues/79#issuecomment-1832699821) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. 🗣 Commented on [#2220](https://github.com/makeplane/plane/issues/2220#issuecomment-1832695461) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
