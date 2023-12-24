@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Reopened PR [#91](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/91) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-2. 🗣 Commented on [#91](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/91#issuecomment-1868546185) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-3. ❌ Closed PR [#91](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/91) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-4. 🗣 Commented on [#83](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/83#issuecomment-1868545733) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. 💪 Opened PR [#3233](https://github.com/makeplane/plane/pull/3233) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 🗣 Commented on [#17](https://github.com/ThePrimeagen/vim-apm/pull/17#issuecomment-1868564391) in [ThePrimeagen/vim-apm](https://github.com/ThePrimeagen/vim-apm)
+2. ❌ Reopened PR [#91](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/91) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+3. 🗣 Commented on [#91](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/91#issuecomment-1868546185) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+4. ❌ Closed PR [#91](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/91) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
+5. 🗣 Commented on [#83](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/83#issuecomment-1868545733) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
 <!--END_SECTION:activity-->
 
 
