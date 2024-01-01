@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2205](https://github.com/makeplane/plane/issues/2205#issuecomment-1872551861) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 🔒 Closed issue [#3253](https://github.com/makeplane/plane/issues/3253) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 🗣 Commented on [#3253](https://github.com/makeplane/plane/issues/3253#issuecomment-1872534934) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 🗣 Commented on [#6525](https://github.com/TanStack/query/issues/6525#issuecomment-1872532654) in [TanStack/query](https://github.com/TanStack/query)
-5. 🎉 Merged PR [#1](https://github.com/Palanikannan1437/FuturePreneurs-22/pull/1) in [Palanikannan1437/FuturePreneurs-22](https://github.com/Palanikannan1437/FuturePreneurs-22)
+1. 💪 Opened PR [#1](https://github.com/Palanikannan1437/dotfiles.public/pull/1) in [Palanikannan1437/dotfiles.public](https://github.com/Palanikannan1437/dotfiles.public)
+2. ❌ Closed PR [#1](https://github.com/axonasif/dotfiles.public/pull/1) in [axonasif/dotfiles.public](https://github.com/axonasif/dotfiles.public)
+3. 💪 Opened PR [#1](https://github.com/axonasif/dotfiles.public/pull/1) in [axonasif/dotfiles.public](https://github.com/axonasif/dotfiles.public)
+4. 🗣 Commented on [#2205](https://github.com/makeplane/plane/issues/2205#issuecomment-1872551861) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 🔒 Closed issue [#3253](https://github.com/makeplane/plane/issues/3253) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
