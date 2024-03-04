@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3856](https://github.com/makeplane/plane/pull/3856) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 💪 Opened PR [#3855](https://github.com/makeplane/plane/pull/3855) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 💪 Opened PR [#2125](https://github.com/formbricks/formbricks/pull/2125) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
-4. ❌ Closed PR [#3408](https://github.com/makeplane/plane/pull/3408) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 💪 Opened PR [#3748](https://github.com/makeplane/plane/pull/3748) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 💪 Opened PR [#3867](https://github.com/makeplane/plane/pull/3867) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 💪 Opened PR [#3856](https://github.com/makeplane/plane/pull/3856) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 💪 Opened PR [#3855](https://github.com/makeplane/plane/pull/3855) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 💪 Opened PR [#2125](https://github.com/formbricks/formbricks/pull/2125) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+5. ❌ Closed PR [#3408](https://github.com/makeplane/plane/pull/3408) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
