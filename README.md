@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#3574](https://github.com/makeplane/plane/pull/3574) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 💪 Opened PR [#3890](https://github.com/makeplane/plane/pull/3890) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 🗣 Commented on [#1020](https://github.com/ibhagwan/fzf-lua/issues/1020#issuecomment-1977406926) in [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
-4. ❗ Opened issue [#127](https://github.com/cognitive-engineering-lab/aquascope/issues/127) in [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope)
-5. 💪 Opened PR [#3872](https://github.com/makeplane/plane/pull/3872) in [makeplane/plane](https://github.com/makeplane/plane)
+1. ❌ Closed PR [#3744](https://github.com/makeplane/plane/pull/3744) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 💪 Opened PR [#3902](https://github.com/makeplane/plane/pull/3902) in [makeplane/plane](https://github.com/makeplane/plane)
+3. ❌ Closed PR [#3574](https://github.com/makeplane/plane/pull/3574) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 💪 Opened PR [#3890](https://github.com/makeplane/plane/pull/3890) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 🗣 Commented on [#1020](https://github.com/ibhagwan/fzf-lua/issues/1020#issuecomment-1977406926) in [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
 <!--END_SECTION:activity-->
 
 
