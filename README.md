@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#3744](https://github.com/makeplane/plane/pull/3744) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 💪 Opened PR [#3902](https://github.com/makeplane/plane/pull/3902) in [makeplane/plane](https://github.com/makeplane/plane)
-3. ❌ Closed PR [#3574](https://github.com/makeplane/plane/pull/3574) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 💪 Opened PR [#3890](https://github.com/makeplane/plane/pull/3890) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 🗣 Commented on [#1020](https://github.com/ibhagwan/fzf-lua/issues/1020#issuecomment-1977406926) in [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
+1. 💪 Opened PR [#3925](https://github.com/makeplane/plane/pull/3925) in [makeplane/plane](https://github.com/makeplane/plane)
+2. ❌ Closed PR [#3744](https://github.com/makeplane/plane/pull/3744) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 💪 Opened PR [#3902](https://github.com/makeplane/plane/pull/3902) in [makeplane/plane](https://github.com/makeplane/plane)
+4. ❌ Closed PR [#3574](https://github.com/makeplane/plane/pull/3574) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#3890](https://github.com/makeplane/plane/pull/3890) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
