@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2125](https://github.com/formbricks/formbricks/pull/2125#issuecomment-2031306522) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
-2. 💪 Opened PR [#4092](https://github.com/makeplane/plane/pull/4092) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 🗣 Commented on [#127](https://github.com/cognitive-engineering-lab/aquascope/issues/127#issuecomment-2021225246) in [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope)
-4. 🗣 Commented on [#2125](https://github.com/formbricks/formbricks/pull/2125#issuecomment-2014347122) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
-5. 💪 Opened PR [#3974](https://github.com/makeplane/plane/pull/3974) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 🗣 Commented on [#4453](https://github.com/ueberdosis/tiptap/pull/4453#issuecomment-2036758306) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+2. 🗣 Commented on [#2125](https://github.com/formbricks/formbricks/pull/2125#issuecomment-2031306522) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+3. 💪 Opened PR [#4092](https://github.com/makeplane/plane/pull/4092) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 🗣 Commented on [#127](https://github.com/cognitive-engineering-lab/aquascope/issues/127#issuecomment-2021225246) in [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope)
+5. 🗣 Commented on [#2125](https://github.com/formbricks/formbricks/pull/2125#issuecomment-2014347122) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
 <!--END_SECTION:activity-->
 
 
