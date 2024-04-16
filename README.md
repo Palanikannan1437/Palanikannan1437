@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4215](https://github.com/makeplane/plane/pull/4215) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 💪 Opened PR [#4200](https://github.com/makeplane/plane/pull/4200) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 💪 Opened PR [#4198](https://github.com/makeplane/plane/pull/4198) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 💪 Opened PR [#4187](https://github.com/makeplane/plane/pull/4187) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 🗣 Commented on [#4453](https://github.com/ueberdosis/tiptap/pull/4453#issuecomment-2036758306) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+1. 💪 Opened PR [#4216](https://github.com/makeplane/plane/pull/4216) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 💪 Opened PR [#4215](https://github.com/makeplane/plane/pull/4215) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 💪 Opened PR [#4200](https://github.com/makeplane/plane/pull/4200) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 💪 Opened PR [#4198](https://github.com/makeplane/plane/pull/4198) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#4187](https://github.com/makeplane/plane/pull/4187) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
