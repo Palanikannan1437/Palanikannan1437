@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5516](https://github.com/makeplane/plane/pull/5516) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 💪 Opened PR [#5502](https://github.com/makeplane/plane/pull/5502) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 💪 Opened PR [#5389](https://github.com/makeplane/plane/pull/5389) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 💪 Opened PR [#5345](https://github.com/makeplane/plane/pull/5345) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 💪 Opened PR [#4989](https://github.com/makeplane/plane/pull/4989) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 💪 Opened PR [#5524](https://github.com/makeplane/plane/pull/5524) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 💪 Opened PR [#5516](https://github.com/makeplane/plane/pull/5516) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 💪 Opened PR [#5502](https://github.com/makeplane/plane/pull/5502) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 💪 Opened PR [#5389](https://github.com/makeplane/plane/pull/5389) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#5345](https://github.com/makeplane/plane/pull/5345) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
