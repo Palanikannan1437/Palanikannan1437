@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6591](https://github.com/makeplane/plane/pull/6591) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 💪 Opened PR [#6583](https://github.com/makeplane/plane/pull/6583) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 🗣 Commented on [#6538](https://github.com/makeplane/plane/issues/6538#issuecomment-2648201810) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 🔓 Reopened issue [#6766](https://github.com/makeplane/plane/issues/6766) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 🗣 Commented on [#6766](https://github.com/makeplane/plane/issues/6766#issuecomment-2739848891) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 🔒 Closed issue [#6766](https://github.com/makeplane/plane/issues/6766) in [makeplane/plane](https://github.com/makeplane/plane)
 4. 🔒 Closed issue [#6538](https://github.com/makeplane/plane/issues/6538) in [makeplane/plane](https://github.com/makeplane/plane)
 5. 🗣 Commented on [#5965](https://github.com/makeplane/plane/issues/5965#issuecomment-2648169678) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
