@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#913](https://github.com/ueberdosis/hocuspocus/issues/913#issuecomment-2843354158) in [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus)
-2. 🗣 Commented on [#913](https://github.com/ueberdosis/hocuspocus/issues/913#issuecomment-2839760364) in [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus)
-3. 💪 Opened PR [#6904](https://github.com/makeplane/plane/pull/6904) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 💪 Opened PR [#6866](https://github.com/makeplane/plane/pull/6866) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 💪 Opened PR [#6861](https://github.com/makeplane/plane/pull/6861) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 🔒 Closed issue [#5747](https://github.com/makeplane/plane/issues/5747) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 🗣 Commented on [#913](https://github.com/ueberdosis/hocuspocus/issues/913#issuecomment-2843354158) in [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus)
+3. 🗣 Commented on [#913](https://github.com/ueberdosis/hocuspocus/issues/913#issuecomment-2839760364) in [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus)
+4. 💪 Opened PR [#6904](https://github.com/makeplane/plane/pull/6904) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#6866](https://github.com/makeplane/plane/pull/6866) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
