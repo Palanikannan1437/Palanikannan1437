@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 1. 🗣 Commented on [#37429](https://github.com/zed-industries/zed/issues/37429#issuecomment-3263604833) in [zed-industries/zed](https://github.com/zed-industries/zed)
 2. ❗ Opened issue [#37429](https://github.com/zed-industries/zed/issues/37429) in [zed-industries/zed](https://github.com/zed-industries/zed)
-3. 🗣 Commented on [#7844](https://github.com/zed-industries/zed/issues/7844#issuecomment-3235614893) in [zed-industries/zed](https://github.com/zed-industries/zed)
-4. 🗣 Commented on [#4991](https://github.com/zed-industries/zed/issues/4991#issuecomment-3197297779) in [zed-industries/zed](https://github.com/zed-industries/zed)
-5. 💪 Opened PR [#7256](https://github.com/makeplane/plane/pull/7256) in [makeplane/plane](https://github.com/makeplane/plane)
+3. ❌ Labeled PR [#7556](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+4. ❌ Unlabeled PR [#7556](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 🗣 Commented on [#7844](https://github.com/zed-industries/zed/issues/7844#issuecomment-3235614893) in [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--END_SECTION:activity-->
 
 
