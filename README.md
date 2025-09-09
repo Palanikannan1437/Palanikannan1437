@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#37429](https://github.com/zed-industries/zed/issues/37429#issuecomment-3263604833) in [zed-industries/zed](https://github.com/zed-industries/zed)
-2. ❗ Opened issue [#37429](https://github.com/zed-industries/zed/issues/37429) in [zed-industries/zed](https://github.com/zed-industries/zed)
-3. 🗣 Commented on [#7844](https://github.com/zed-industries/zed/issues/7844#issuecomment-3235614893) in [zed-industries/zed](https://github.com/zed-industries/zed)
-4. 🗣 Commented on [#4991](https://github.com/zed-industries/zed/issues/4991#issuecomment-3197297779) in [zed-industries/zed](https://github.com/zed-industries/zed)
-5. 🗣 Commented on [#7844](https://github.com/zed-industries/zed/issues/7844#issuecomment-3235614893) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. 💪 Opened PR [#7754](https://github.com/makeplane/plane/pull/7754) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 🗣 Commented on [#37429](https://github.com/zed-industries/zed/issues/37429#issuecomment-3263604833) in [zed-industries/zed](https://github.com/zed-industries/zed)
+3. ❗ Opened issue [#37429](https://github.com/zed-industries/zed/issues/37429) in [zed-industries/zed](https://github.com/zed-industries/zed)
+4. 🗣 Commented on [#7844](https://github.com/zed-industries/zed/issues/7844#issuecomment-3235614893) in [zed-industries/zed](https://github.com/zed-industries/zed)
+5. 🗣 Commented on [#4991](https://github.com/zed-industries/zed/issues/4991#issuecomment-3197297779) in [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--END_SECTION:activity-->
 
 
