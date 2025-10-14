@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/Ataraxy-Labs/opencode/pull/1) in [Ataraxy-Labs/opencode](https://github.com/Ataraxy-Labs/opencode)
-2. 💪 Opened PR [#7902](https://github.com/makeplane/plane/pull/7902) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 💪 Opened PR [#7898](https://github.com/makeplane/plane/pull/7898) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 💪 Opened PR [#7880](https://github.com/makeplane/plane/pull/7880) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 💪 Opened PR [#7843](https://github.com/makeplane/plane/pull/7843) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 💪 Opened PR [#7930](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+2. ❌ Assigned PR [#7930](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+3. ❌ Assigned PR [#7928](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 💪 Opened PR [#7928](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#1](undefined) in [Ataraxy-Labs/opencode](https://github.com/Ataraxy-Labs/opencode)
 <!--END_SECTION:activity-->
 
 
