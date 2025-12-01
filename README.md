@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#8209](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-2. ❌ Closed PR [#7520](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-3. ❌ Closed PR [#6142](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-4. ❌ Closed PR [#6316](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 💪 Opened PR [#8204](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 💪 Opened PR [#8210](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 💪 Opened PR [#8209](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+3. ❌ Closed PR [#7520](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+4. ❌ Closed PR [#6142](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
+5. ❌ Closed PR [#6316](undefined) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
