@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#8574](https://github.com/makeplane/plane/pull/8574) in [makeplane/plane](https://github.com/makeplane/plane)
-2. ℹ️ Unlabeled PR [#8574](https://github.com/makeplane/plane/pull/8574) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 🗣 Commented on [#6221](https://github.com/makeplane/plane/issues/6221#issuecomment-3776682855) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 💪 Opened PR [#8564](https://github.com/makeplane/plane/pull/8564) in [makeplane/plane](https://github.com/makeplane/plane)
-5. 💪 Opened PR [#8559](https://github.com/makeplane/plane/pull/8559) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 🎉 Merged PR [#8559](https://github.com/makeplane/plane/pull/8559) in [makeplane/plane](https://github.com/makeplane/plane)
+2. ℹ️ Labeled PR [#8574](https://github.com/makeplane/plane/pull/8574) in [makeplane/plane](https://github.com/makeplane/plane)
+3. ℹ️ Unlabeled PR [#8574](https://github.com/makeplane/plane/pull/8574) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 🗣 Commented on [#6221](https://github.com/makeplane/plane/issues/6221#issuecomment-3776682855) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 💪 Opened PR [#8564](https://github.com/makeplane/plane/pull/8564) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
