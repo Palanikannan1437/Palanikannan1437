@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8619](https://github.com/makeplane/plane/pull/8619) in [makeplane/plane](https://github.com/makeplane/plane)
-2. 💪 Opened PR [#8619](https://github.com/makeplane/plane/pull/8619) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 🎉 Merged PR [#8564](https://github.com/makeplane/plane/pull/8564) in [makeplane/plane](https://github.com/makeplane/plane)
-4. 🎉 Merged PR [#8559](https://github.com/makeplane/plane/pull/8559) in [makeplane/plane](https://github.com/makeplane/plane)
-5. ℹ️ Labeled PR [#8574](https://github.com/makeplane/plane/pull/8574) in [makeplane/plane](https://github.com/makeplane/plane)
+1. 💪 Opened PR [#9](https://github.com/Ataraxy-Labs/weave/pull/9) in [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave)
+2. 🎉 Merged PR [#8619](https://github.com/makeplane/plane/pull/8619) in [makeplane/plane](https://github.com/makeplane/plane)
+3. 💪 Opened PR [#8619](https://github.com/makeplane/plane/pull/8619) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 🎉 Merged PR [#8564](https://github.com/makeplane/plane/pull/8564) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 🎉 Merged PR [#8559](https://github.com/makeplane/plane/pull/8559) in [makeplane/plane](https://github.com/makeplane/plane)
 <!--END_SECTION:activity-->
 
 
