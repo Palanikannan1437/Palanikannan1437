@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 1. 🎉 Merged PR [#2](https://github.com/Ataraxy-Labs/sem/pull/2) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
-2. 🚀 Published release [v0.1.0](https://github.com/Ataraxy-Labs/gh-agent/releases/tag/v0.1.0) in [Ataraxy-Labs/gh-agent](https://github.com/Ataraxy-Labs/gh-agent)
-3. 💪 Opened PR [#2](https://github.com/Ataraxy-Labs/sem/pull/2) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
-4. ❌ Closed PR [#7787](https://github.com/makeplane/plane/pull/7787) in [makeplane/plane](https://github.com/makeplane/plane)
-5. ❌ Closed PR [#8209](https://github.com/makeplane/plane/pull/8209) in [makeplane/plane](https://github.com/makeplane/plane)
+2. 💪 Opened PR [#2](https://github.com/Ataraxy-Labs/sem/pull/2) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
+3. ❌ Closed PR [#7787](https://github.com/makeplane/plane/pull/7787) in [makeplane/plane](https://github.com/makeplane/plane)
+4. ❌ Closed PR [#8209](https://github.com/makeplane/plane/pull/8209) in [makeplane/plane](https://github.com/makeplane/plane)
+5. 🎉 Merged PR [#11](https://github.com/Ataraxy-Labs/weave/pull/11) in [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave)
 <!--END_SECTION:activity-->
 
 
