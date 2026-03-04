@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 - 🍊 Gitpod Hero
 - 🥑 Previously Jr. Developer Evangelist [@Apache/Devlake](https://github.com/apache/incubator-devlake)
 - 💻 I’m a full stack developer
-- 🎓 I am a pre-final year student at VIT Vellore (B.Tech CSE) with a CGPA of 8.91
-- 🌱 Web & DevOps (Typescript Wizard? + Gopher + SQL)
+- 🎓 Graduated from VIT Vellore (B.Tech CSE) with a CGPA of 8.91
+- 🌱 Web & DevOps (Typescript Wizard? + Rust)
 
 ---
 ## All my OSS Contributions at one place
 
-<a href="https://palanikannan.notion.site/M-Palanikannan-s-Open-Source-Contributions-6093b953381e48979d93eeb1f12f7d44">Check it out here ;)</a>
+<a href="www.palanikannan.com">Check it out here ;)</a>
 
 <img width="868" alt="image" src="https://github.com/Palanikannan1437/Palanikannan1437/assets/73993394/d34c0268-6df1-468f-ab22-b741f5dd152d">
 
