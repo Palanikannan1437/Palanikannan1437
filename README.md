@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4](https://github.com/Ataraxy-Labs/opensessions/issues/4) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-2. 🗣 Commented on [#4](https://github.com/Ataraxy-Labs/opensessions/issues/4#issuecomment-4154793034) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-3. 🔓 Reopened issue [#5](https://github.com/Ataraxy-Labs/opensessions/issues/5) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-4. 🗣 Commented on [#5](https://github.com/Ataraxy-Labs/opensessions/issues/5#issuecomment-4152514613) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-5. 🔒 Closed issue [#5](https://github.com/Ataraxy-Labs/opensessions/issues/5) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+1. 🔒 Closed issue [#6](https://github.com/Ataraxy-Labs/opensessions/issues/6) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+2. 🗣 Commented on [#11](https://github.com/Ataraxy-Labs/opensessions/issues/11#issuecomment-4155501697) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+3. ❌ Closed PR [#10](https://github.com/Ataraxy-Labs/opensessions/pull/10) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+4. 🗣 Commented on [#10](https://github.com/Ataraxy-Labs/opensessions/pull/10#issuecomment-4155417086) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+5. 🔒 Closed issue [#4](https://github.com/Ataraxy-Labs/opensessions/issues/4) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
 <!--END_SECTION:activity-->
 
 
