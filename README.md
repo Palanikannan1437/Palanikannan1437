@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3](https://github.com/Ataraxy-Labs/opensessions/issues/3) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-2. 🗣 Commented on [#3](https://github.com/Ataraxy-Labs/opensessions/issues/3#issuecomment-4149296169) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-3. 🗣 Commented on [#1](https://github.com/Ataraxy-Labs/opensessions/pull/1#issuecomment-4146718133) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-4. ❌ Closed PR [#1](https://github.com/Ataraxy-Labs/opensessions/pull/1) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-5. 🗣 Commented on [#37429](https://github.com/zed-industries/zed/issues/37429#issuecomment-4140372549) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. 🔓 Reopened issue [#5](https://github.com/Ataraxy-Labs/opensessions/issues/5) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+2. 🗣 Commented on [#5](https://github.com/Ataraxy-Labs/opensessions/issues/5#issuecomment-4152514613) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+3. 🔒 Closed issue [#5](https://github.com/Ataraxy-Labs/opensessions/issues/5) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+4. 🔒 Closed issue [#3](https://github.com/Ataraxy-Labs/opensessions/issues/3) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+5. 🗣 Commented on [#3](https://github.com/Ataraxy-Labs/opensessions/issues/3#issuecomment-4149296169) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
 <!--END_SECTION:activity-->
 
 
