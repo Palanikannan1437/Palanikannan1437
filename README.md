@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#20](https://github.com/Ataraxy-Labs/opensessions/issues/20#issuecomment-4203585078) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-2. 🔓 Reopened issue [#20](https://github.com/Ataraxy-Labs/opensessions/issues/20) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-3. ❌ Closed PR [#181](https://github.com/RocketChat/RC4Community/pull/181) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-4. ❌ Closed PR [#5](https://github.com/Palanikannan1437/RC4-Community/pull/5) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
-5. ❌ Closed PR [#75](https://github.com/RocketChat/RC4Conferences/pull/75) in [RocketChat/RC4Conferences](https://github.com/RocketChat/RC4Conferences)
+1. 🗣 Commented on [#13](https://github.com/Ataraxy-Labs/opensessions/pull/13#issuecomment-4205655721) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+2. 🗣 Commented on [#2](https://github.com/Ataraxy-Labs/opensessions/pull/2#issuecomment-4205618886) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+3. ❌ Closed PR [#16](https://github.com/Ataraxy-Labs/opensessions/pull/16) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+4. 🗣 Commented on [#16](https://github.com/Ataraxy-Labs/opensessions/pull/16#issuecomment-4205561497) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+5. ℹ️ Reopened PR [#16](https://github.com/Ataraxy-Labs/opensessions/pull/16) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
 <!--END_SECTION:activity-->
 
 
