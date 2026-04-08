@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#181](https://github.com/RocketChat/RC4Community/pull/181) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-2. ❌ Closed PR [#5](https://github.com/Palanikannan1437/RC4-Community/pull/5) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
-3. ❌ Closed PR [#75](https://github.com/RocketChat/RC4Conferences/pull/75) in [RocketChat/RC4Conferences](https://github.com/RocketChat/RC4Conferences)
-4. ❌ Closed PR [#66](https://github.com/gitpod-samples/Gitpod-Raycast-Extension/pull/66) in [gitpod-samples/Gitpod-Raycast-Extension](https://github.com/gitpod-samples/Gitpod-Raycast-Extension)
-5. 🗣 Commented on [#17](https://github.com/Ataraxy-Labs/opensessions/issues/17#issuecomment-4178106163) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+1. 🗣 Commented on [#20](https://github.com/Ataraxy-Labs/opensessions/issues/20#issuecomment-4203585078) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+2. 🔓 Reopened issue [#20](https://github.com/Ataraxy-Labs/opensessions/issues/20) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+3. ❌ Closed PR [#181](https://github.com/RocketChat/RC4Community/pull/181) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+4. ❌ Closed PR [#5](https://github.com/Palanikannan1437/RC4-Community/pull/5) in [Palanikannan1437/RC4-Community](https://github.com/Palanikannan1437/RC4-Community)
+5. ❌ Closed PR [#75](https://github.com/RocketChat/RC4Conferences/pull/75) in [RocketChat/RC4Conferences](https://github.com/RocketChat/RC4Conferences)
 <!--END_SECTION:activity-->
 
 
