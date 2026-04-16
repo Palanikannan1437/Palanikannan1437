@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#23](https://github.com/Ataraxy-Labs/opensessions/pull/23#issuecomment-4250526507) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-2. 🗣 Commented on [#25](https://github.com/Ataraxy-Labs/opensessions/pull/25#issuecomment-4250518911) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-3. 🗣 Commented on [#26](https://github.com/Ataraxy-Labs/opensessions/pull/26#issuecomment-4250509219) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-4. 🗣 Commented on [#26](https://github.com/Ataraxy-Labs/opensessions/pull/26#issuecomment-4250505057) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-5. 🗣 Commented on [#24](https://github.com/Ataraxy-Labs/opensessions/issues/24#issuecomment-4237740453) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+1. 🗣 Commented on [#3](https://github.com/superhq-ai/superhq/issues/3#issuecomment-4257291975) in [superhq-ai/superhq](https://github.com/superhq-ai/superhq)
+2. 🗣 Commented on [#23](https://github.com/Ataraxy-Labs/opensessions/pull/23#issuecomment-4250526507) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+3. 🗣 Commented on [#25](https://github.com/Ataraxy-Labs/opensessions/pull/25#issuecomment-4250518911) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+4. 🗣 Commented on [#26](https://github.com/Ataraxy-Labs/opensessions/pull/26#issuecomment-4250509219) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+5. 🗣 Commented on [#26](https://github.com/Ataraxy-Labs/opensessions/pull/26#issuecomment-4250505057) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
 <!--END_SECTION:activity-->
 
 
