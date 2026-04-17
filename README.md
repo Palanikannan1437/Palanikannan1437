@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#285](https://github.com/rothgar/awesome-tmux/pull/285) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
-2. 💪 Opened PR [#106](https://github.com/tmux-plugins/list/pull/106) in [tmux-plugins/list](https://github.com/tmux-plugins/list)
-3. 🗣 Commented on [#20](https://github.com/Ataraxy-Labs/opensessions/issues/20#issuecomment-4257588598) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-4. 🗣 Commented on [#24](https://github.com/Ataraxy-Labs/opensessions/issues/24#issuecomment-4257587267) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-5. 🗣 Commented on [#3](https://github.com/superhq-ai/superhq/issues/3#issuecomment-4257291975) in [superhq-ai/superhq](https://github.com/superhq-ai/superhq)
+1. 🔒 Closed issue [#27](https://github.com/Ataraxy-Labs/opensessions/issues/27) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+2. 🗣 Commented on [#27](https://github.com/Ataraxy-Labs/opensessions/issues/27#issuecomment-4266409853) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+3. 💪 Opened PR [#285](https://github.com/rothgar/awesome-tmux/pull/285) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
+4. 💪 Opened PR [#106](https://github.com/tmux-plugins/list/pull/106) in [tmux-plugins/list](https://github.com/tmux-plugins/list)
+5. 🗣 Commented on [#20](https://github.com/Ataraxy-Labs/opensessions/issues/20#issuecomment-4257588598) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
 <!--END_SECTION:activity-->
 
 
