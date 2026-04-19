@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#27](https://github.com/Ataraxy-Labs/opensessions/issues/27#issuecomment-4272289507) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-2. 🗣 Commented on [#20](https://github.com/Ataraxy-Labs/opensessions/issues/20#issuecomment-4266601879) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-3. 🔒 Closed issue [#27](https://github.com/Ataraxy-Labs/opensessions/issues/27) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-4. 🗣 Commented on [#27](https://github.com/Ataraxy-Labs/opensessions/issues/27#issuecomment-4266409853) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-5. 💪 Opened PR [#285](https://github.com/rothgar/awesome-tmux/pull/285) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
+1. 🗣 Commented on [#23](https://github.com/Ataraxy-Labs/opensessions/pull/23#issuecomment-4276701722) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+2. 🗣 Commented on [#27](https://github.com/Ataraxy-Labs/opensessions/issues/27#issuecomment-4272289507) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+3. 🗣 Commented on [#20](https://github.com/Ataraxy-Labs/opensessions/issues/20#issuecomment-4266601879) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+4. 🔒 Closed issue [#27](https://github.com/Ataraxy-Labs/opensessions/issues/27) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+5. 🗣 Commented on [#27](https://github.com/Ataraxy-Labs/opensessions/issues/27#issuecomment-4266409853) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
 <!--END_SECTION:activity-->
 
 
