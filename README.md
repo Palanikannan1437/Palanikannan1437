@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#36](https://github.com/Ataraxy-Labs/opensessions/pull/36) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-2. 💪 Opened PR [#36](https://github.com/Ataraxy-Labs/opensessions/pull/36) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+1. 🚀 Published release [v0.1.0-alpha.12 — FIXED SYNTAX HIGHLIGHTING](https://github.com/Ataraxy-Labs/lazydiff/releases/tag/v0.1.0-alpha.12) in [Ataraxy-Labs/lazydiff](https://github.com/Ataraxy-Labs/lazydiff)
+2. 🎉 Merged PR [#36](https://github.com/Ataraxy-Labs/opensessions/pull/36) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
 3. 🗣 Commented on [#33](https://github.com/Ataraxy-Labs/opensessions/pull/33#issuecomment-4319662867) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
 4. 🗣 Commented on [#34](https://github.com/Ataraxy-Labs/opensessions/pull/34#issuecomment-4319661312) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
 5. 🎉 Merged PR [#285](https://github.com/rothgar/awesome-tmux/pull/285) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
