@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#477](https://github.com/Ataraxy-Labs/sem/issues/477) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
-2. 🔒 Closed issue [#478](https://github.com/Ataraxy-Labs/sem/issues/478) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
-3. 🔒 Closed issue [#455](https://github.com/Ataraxy-Labs/sem/issues/455) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
-4. 🔒 Closed issue [#479](https://github.com/Ataraxy-Labs/sem/issues/479) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
-5. 🗣 Commented on [#479](https://github.com/Ataraxy-Labs/sem/issues/479#issuecomment-5308948321) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
+1. 🔒 Closed issue [#148](https://github.com/Ataraxy-Labs/weave/issues/148) in [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave)
+2. 🔒 Closed issue [#477](https://github.com/Ataraxy-Labs/sem/issues/477) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
+3. 🔒 Closed issue [#478](https://github.com/Ataraxy-Labs/sem/issues/478) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
+4. 🔒 Closed issue [#455](https://github.com/Ataraxy-Labs/sem/issues/455) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
+5. 🔒 Closed issue [#479](https://github.com/Ataraxy-Labs/sem/issues/479) in [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
 <!--END_SECTION:activity-->
 
 
